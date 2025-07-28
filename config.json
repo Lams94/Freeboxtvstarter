@@ -1,0 +1,8 @@
+{
+  "favorite_channels": [
+    "http://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201",
+    "http://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202",
+    "http://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204"
+  ],
+  "default_channel_index": 0
+}
